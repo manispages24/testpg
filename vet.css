@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    }
+    .circle {
+    border-radius: 50%;
+    background-color: lightblue;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 20px;
+    }
+    img {
+    border-radius: 50%;
+    }
+    hr {
+    border-style: groove;
+    margin-bottom: 30px;
+    }
+    ul {
+    text-align: center;
+    }
+
+    li {
+    text-align: left;
+    display: inline-block;
+    margin-right: 10px;
+    list-style: position: inside;
+
+    }
+
+
+
+
+    h2 {
+    text-align: center;
+    } 
+    
+    table {
+        border: 1px solid #ccc;
+        border-collapse: collapse;
+        margin: auto;
+        width: 50%;
+        }
+        
+        th, td {
+        padding: 8px;
+        text-align: left;
+        vertical-align: top;
+        border: 1px solid #ccc;
+        }
+        
+        th {
+        background-color: #f2f2f2;
+        }
+       
+        
+        tr:first-child {
+
+        font-weight: normal !important;
+
+        }
+ 
+        hr {
+            background: url('swiggly-image-url') repeat-x center;
+            border: none;
+            height: 10px;
+            background-color: black;
+            }
+
+            h1, h2 {
+                font-family: "Brush Script MT", cursive;
+                }
+                
+                
+
+            
